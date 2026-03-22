@@ -1,5 +1,3 @@
-# aws-vpc-peering-cross-region
-AWS Project demonstrating cross-region VPC Peering between Singapore and Mumbai with EC2 private connectivity.
 # 🌐 AWS Cross-Region VPC Peering Project
 
 This project demonstrates how to establish **private connectivity between two AWS VPCs across different regions** using VPC Peering.
@@ -17,7 +15,7 @@ This project demonstrates how to establish **private connectivity between two AW
 ## ⚙️ Services Used
 
 - AWS VPC
-- EC2 (Windows Server)
+- EC2 (Linux Server)
 - Internet Gateway
 - Route Tables
 - Security Groups
